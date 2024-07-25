@@ -6,6 +6,7 @@ import MainFile from './components/MainFile';
 function App() {
   return (
     <div className="App">
+      {/* App.jsx */}
       <Header></Header>
       <MainFile></MainFile>
 
